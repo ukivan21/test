@@ -8,6 +8,6 @@
 @var select variant "Variant" {"animated": "'animated'", "3d": "'3d'", "color": "'color'", "flat": "'flat'", "high-contrast": "'high-contrast'"}
 ==/UserStyle== */
 
-@-moz-document regexp("https?://(canary\\.|ptb\\.|)discord.com/.*") {
+@-moz-document regexp("https://discord.com") {
     @import url("https://discord-fluent.siris.me/css/fluent-3d.css")
 }
