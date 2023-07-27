@@ -143,18 +143,18 @@
   --background-mobile-secondary: #000000;
   --channeltextarea-background: #000000;
   --background-message-hover: transparent;
-  --background-modifier-hover: #00000010;
-  --background-modifier-active: #0000001a;
-  --background-modifier-selected: #0000001f;
-  --deprecated-card-bg: #12141f63;
+  --background-modifier-hover: #000000;
+  --background-modifier-active: #000000;
+  --background-modifier-selected: #000000;
+  --deprecated-card-bg: #000000;
   --background-floating: #000000;
-  --deprecated-quickswitcher-input-background: #101320;
+  --deprecated-quickswitcher-input-background: #000000;
   --elevation-low: none;
   --scrollbar-auto-thumb: #121722;
   --scrollbar-auto-track: #191f2e;
   --scrollbar-thin-thumb: #141925;
-  --activity-card-background: #101320;
-  --input-background: #1e2233;
+  --activity-card-background: #000000;
+  --input-background: #000000;
 }
 
 .theme-light {
