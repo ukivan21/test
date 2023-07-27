@@ -133,10 +133,10 @@
 
 .theme-dark {
   --background-primary: #000000;
-  --background-secondary: #222222;
-  --background-secondary-alt: #191f2e;
-  --background-tertiary: #101320;
-  --background-accent: #7289da;
+  --background-secondary: #111111;
+  --background-secondary-alt: #111111;
+  --background-tertiary: #111111;
+  --background-accent: #0000ff;
 
   --modal-background: #23283d;
   --background-mobile-primary: #23283d;
